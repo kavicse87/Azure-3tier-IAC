@@ -1,0 +1,5 @@
+subscription_id = "80be8cb5-4c2f-4695-9630-d4ae00f82c2b"
+client_id = "2db6d4cc-cb62-4827-8ab9-b461ccd60cea"
+client_secret = "KZlZypS8vv+h+c8mieB2JT6NjWI+MKSFm67I5+7G9L8="
+tenant_id = "8d96d7ac-aa51-4713-8bdf-f2540aa32715"
+location = "southindia"
